@@ -1,4 +1,4 @@
-package com.example;
+package org.alexholmes;
 
 import com.google.inject.Provides;
 import javax.inject.Inject;
